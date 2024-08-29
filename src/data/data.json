@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567613/cwlk21f74nd9iamrlzkh.png",
+            "title": "Jacket",
+            "price": 500000
+        },
+        {
+            "id": 2,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/qichw3wrcioebkvzudib.png",
+            "title": "Jeans",
+            "price": 600000
+        },
+        {
+            "id": 3,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/vy2q98s8ucsywwxjx2cf.png",
+            "title": "Acrylic Sweater",
+            "price": 610000
+        },
+        {
+            "id": 4,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/smf81ubnfjennk9qbjm4.png",
+            "title": "Winter Coat",
+            "price": 900000
+        },
+        {
+            "id": 5,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/cvafl35dv9wzisdsgtd6.png",
+            "title": "Winter Shirts",
+            "price": 1000000
+        },
+        {
+            "id": 6,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567613/cwlk21f74nd9iamrlzkh.png",
+            "title": "Shirts With Jacket",
+            "price": 900000
+        },
+        {
+            "id": 7,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567613/cwlk21f74nd9iamrlzkh.png",
+            "title": "Leather Jacket",
+            "price": 700000
+        },
+        {
+            "id": 8,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/qichw3wrcioebkvzudib.png",
+            "title": "Blue Jeans",
+            "price": 756000
+        },
+        {
+            "id": 9,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/vy2q98s8ucsywwxjx2cf.png",
+            "title": "Wool Sweater",
+            "price": 897000
+        },
+        {
+            "id": 10,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/smf81ubnfjennk9qbjm4.png",
+            "title": "Parka",
+            "price": 869000
+        },
+        {
+            "id": 11,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/cvafl35dv9wzisdsgtd6.png",
+            "title": "Sweatshirt",
+            "price": 1100000
+        },
+        {
+            "id": 12,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567613/cwlk21f74nd9iamrlzkh.png",
+            "title": "Denim Jacket",
+            "price": 980000
+        },
+        {
+            "id": 13,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567613/cwlk21f74nd9iamrlzkh.png",
+            "title": "Hoodie",
+            "price": 897000
+        },
+        {
+            "id": 14,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/qichw3wrcioebkvzudib.png",
+            "title": "Black Jeans",
+            "price": 1200000
+        },
+        {
+            "id": 15,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/vy2q98s8ucsywwxjx2cf.png",
+            "title": "Cable-Knit Sweater",
+            "price": 799000
+        },
+        {
+            "id": 16,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/smf81ubnfjennk9qbjm4.png",
+            "title": "Peacoat",
+            "price": 899999
+        },
+        {
+            "id": 17,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/cvafl35dv9wzisdsgtd6.png",
+            "title": "Flannel Shirt",
+            "price": 999900
+        },
+        {
+            "id": 18,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567613/cwlk21f74nd9iamrlzkh.png",
+            "title": "Windbreaker",
+            "price": 999000
+        },
+        {
+            "id": 19,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567613/cwlk21f74nd9iamrlzkh.png",
+            "title": "Puffer Jacket",
+            "price": 888000
+        },
+        {
+            "id": 20,
+            "image": "https://res.cloudinary.com/dlc5c1ycl/image/upload/v1710567612/qichw3wrcioebkvzudib.png",
+            "title": "Ripped Jeans",
+            "price": 878000
+        }
+    ]
+}
